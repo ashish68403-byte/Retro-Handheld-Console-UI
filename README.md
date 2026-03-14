@@ -115,12 +115,6 @@ That's it — no `npm install`, no dependencies, no build step. ✅
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
 <div align="center">
 
 Made with ❤️ and pure CSS by **Ashish Kumar**
